@@ -2,4 +2,4 @@ function doubleNumber(num) {
   return num * 2;
 }
 
-console.log(doubleNumber(10)); 
+console.log(doubleNumber(5)); 
